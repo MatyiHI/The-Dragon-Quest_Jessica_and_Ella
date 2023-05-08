@@ -22,6 +22,44 @@ namespace myImages {
 . . f 4 4 4 4 f 4 4 4 4 f . . . 
 . . f f f f f f f f f f . . . . 
 `;
+            case "image1":
+            case "Loretta":return img`
+. . . . . f f f f . . . . . . . 
+. . . . f b a b f f f f f f . . 
+. . f f f a a a c a a b b f f . 
+. f f c a a a a a b f f f f f . 
+f f a a b b c b a f f a a f . . 
+f b b b f f f f f f a a a a f . 
+f f f f f f e e e e f f a a f . 
+. f c a f b f e e f b f c c f . 
+. f c c e 1 3 4 4 3 1 e c c f . 
+f f c c f 4 4 4 4 4 4 f c c f f 
+f c c f f f e e e e f f f c c f 
+f f c c f c f f e f c f c c f . 
+. f c a c b b f f b b c c a f . 
+. . f a b b b b b b b b a f f . 
+. . f f c c b b b b b f f f . . 
+. . . . . f f b b f f . . . . . 
+`;
+            case "image2":
+            case "Desmond":return img`
+. . . . . . . . . . . . . 
+. . . . . f f f . . . . . 
+. . . f f f f f f f . . . 
+. f f f f f c c f f f f . 
+f f f c f f f f f f f c f 
+f c c f f f e e f f c c f 
+f f f f f e e f f c c f . 
+. f f b 8 e e 8 b f f f . 
+. f 4 1 8 4 4 8 1 4 f . . 
+. f e 4 4 4 4 4 4 e f . . 
+. . f f e e e e f f . . . 
+f e f 8 6 6 6 6 8 f e f . 
+e 4 f 8 6 6 6 6 8 f 4 e . 
+e e f 9 6 6 6 6 9 f e e . 
+. . . f f f f f f . . . . 
+. . . f f . . f f . . . . 
+`;
         }
         return null;
     })
