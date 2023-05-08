@@ -22,25 +22,6 @@ namespace myImages {
 . . f 4 4 4 4 f 4 4 4 4 f . . . 
 . . f f f f f f f f f f . . . . 
 `;
-            case "image1":
-            case "Loretta":return img`
-. . . . . f f f f . . . . . . . 
-. . . . f b a b f f f f f f . . 
-. . f f f a a a c a a b b f f . 
-. f f c a a a a a b f f f f f . 
-f f a a b b c b a f f a a f . . 
-f b b b f f f f f f a a a a f . 
-f f f f f f e e e e f f a a f . 
-. f c a f b f e e f b f c c f . 
-. f c c e 1 3 4 4 3 1 e c c f . 
-f f c c f 4 4 4 4 4 4 f c c f f 
-f c c f f f e e e e f f f c c f 
-f f c c f c f f e f c f c c f . 
-. f c a c b b f f b b c c a f . 
-. . f a b c b b b b b b a f f . 
-. . f f c c b b b b b f f f . . 
-. . . . . f f b b f f . . . . . 
-`;
         }
         return null;
     })
